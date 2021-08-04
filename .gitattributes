@@ -1,0 +1,12 @@
+fyros_map.xcf filter=lfs diff=lfs merge=lfs -text
+kitiniere_map_preview.xcf filter=lfs diff=lfs merge=lfs -text
+nexus_map.xcf filter=lfs diff=lfs merge=lfs -text
+pr_bagne_map.xcf filter=lfs diff=lfs merge=lfs -text
+pr_terre_map.xcf filter=lfs diff=lfs merge=lfs -text
+tryker_map.xcf filter=lfs diff=lfs merge=lfs -text
+kitiniere_map.xcf filter=lfs diff=lfs merge=lfs -text
+matis_map.xcf filter=lfs diff=lfs merge=lfs -text
+newbieland_rangercamp.xcf filter=lfs diff=lfs merge=lfs -text
+pr_route_gouffre_map.xcf filter=lfs diff=lfs merge=lfs -text
+pr_source_map.xcf filter=lfs diff=lfs merge=lfs -text
+zorai_map.xcf filter=lfs diff=lfs merge=lfs -text
