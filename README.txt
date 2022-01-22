@@ -83,6 +83,17 @@ The village and town maps are (currently) out-of-scope for this project.
 
 #4 Changelog
 
+21.01.2022	Under Spring: Major rework
+		Wastelands: Fixes to the boundaries in Land of Continuity. Added wood partially
+		Tryker, Kitins' Lair: Added compass
+22.11.2021	Zorai: 'grosser Brocken' was missing from impassable areas
+19.10.2021	Zorai: Fix walkable terrain near Min-Cho
+		Zorai: Add compass and scale indicators
+15.09.2021	Matis: Heretic's Hovel obstacle map greatly improved
+24.08.2021	Wasteland: Minor fixes to boundary in Land of Continuity and Forbidden Depths; Villages
+		Lands of Umbra: Fixes and additions to obstacles in Trench of Trial and Gate of Obscurity
+		Lands of Umbra: Teleporter, Portals, Villages and Bandits
+		Zorai: Villages, Bandits completed. Small additions to obstacles. Goo damage markers
 04.08.2021	Update readme with map status, description and contact info
 01.08.2021	Wasteland: Fixes to boundary and obstacles in Forbidden Depths. Kami portal added.
 		Under Springs: Fixes to boundary and obstacles.
@@ -101,15 +112,13 @@ The village and town maps are (currently) out-of-scope for this project.
 		Additions (WIP) to Matis map
 		Additions (WIP) to Fyros map
 		Additions (WIP) to Nexus map
-		
 27.03.2021:	Zorai: Fixes
 		Matis: Some small fixes in Heretic's Howel
 12.02.2021:	Added maps for Kitin lair, Almati wood and Silan from satellite maps without changes
 		Added Nexus with some initial work on obstacles and impassable terrain
 07.02.2021:	Initial release of the Wasteland
-07.02.2022:	Tryker: Added large parts
+07.02.2021:	Tryker: Added large parts
 11.01.2021:	Initial release of Zorai map
-22.01.2022:	Zorai: 'grosser Brocken' was missing from impassable areas
 
 
 
@@ -120,4 +129,10 @@ Rizyinshi:	Installation instructions		Rizyinshi @ Ryzom ingame
 
 Special thanks
 Dorothee who provided me with a number of useful graphics to be used as brushes
+Sami who keeps providing many good ideas and hints for erronous areas
 Ulukyn, Tamarea, Riasan and all others who keep this lovely game alive
+
+#6 TODO:
+- Add windrose to maps for North direction
+- Add scale / distance indicator
+- ... tell me :)
