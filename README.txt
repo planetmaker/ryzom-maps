@@ -33,17 +33,22 @@ https://github.com/planetmaker/ryzom-maps
 
 Generally: place the maps in your character's "user" folder and then (re)start the game.
 
-Gnu/Linux Users
-	Installation process
-	1: Open your file manager
-	2: Go to view check box "Show Hidden"
-	3: Open ~/.local/share/Ryzom/0/user
-	4: Drag and drop the map files in into that folder.
-	5: Restart Ryzom
 
-	Uninstall Process
-	1: Delete zorai_map.png
-	2: Restart Ryzom
+Installation process
+1: Open your file manager
+2: Go to view check box "Show Hidden"
+3: Navigate to your 'user' directory. That may be in different places, depending on your OS and how you launch Ryzom:
+	Windows:
+		C:\Users\USERNAME\AppData\Roaming\Ryzom\ryzom_live\user
+	Gnu/Linux:
+		Using ryzom launcher):		~/.local/share/Ryzom/0/user
+		Using the client directly:	~/ryzom_live/user
+4: Drag and drop the map files in into that folder.
+5: Restart Ryzom
+
+Uninstall Process
+1: Delete the files from your user folder
+2: Restart Ryzom
 
 
 
@@ -55,7 +60,6 @@ almati_map.png			WIP		Almati wood		Almatiwald
 fyros_map.png			WIP		Desert (Fyros)		Wüste
 matis_map.png			WIP		Wood (Matis)		Wald
 newbieland_map.png		WIP		Silan			Silan
-nexus_map.png			missing		Nexus			Nexus
 pr_bagne_map.png		WIP		Abys of Ichor		Abgrund von Ichor
 pr_route_gouffre_map.png	WIP		Lands of Umbra		Länder von Umbra
 pr_source_map.png		WIP		Under Spring		Verbotene Quellen
@@ -64,6 +68,7 @@ tryker_map.png			obstacles	Lakeland (Tryker)	Seenland
 zorai_map.png			obstacles	Jungle (Zorai)		Dschungel
 kitiniere_map.png		obstacles	Kitin nest		Kitin-Nest
 almati_map.png			WIP		Almati wood		Almatiwald
+nexus_map.png			missing		Nexus			Nexus
 				missing		World overview map	Übersichtskarte
 				missing		Dante			Dante
 				missing		Ranger rite map		Karte für Rangerritus
@@ -83,6 +88,7 @@ The village and town maps are (currently) out-of-scope for this project.
 
 #4 Changelog
 
+13.05.2023	Fyros: Added caves in Scorched corridor
 21.01.2022	Under Spring: Major rework
 		Wastelands: Fixes to the boundaries in Land of Continuity. Added wood partially
 		Tryker, Kitins' Lair: Added compass
